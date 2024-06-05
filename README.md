@@ -19,10 +19,7 @@ Este projeto calcula o nível futuro do mar com base em uma altura inicial e um 
   
   - `entrada_anos()`: Solicita ao usuário que insira o número de anos para a projeção, e retorna um inteiro representando o número de anos.
 
-### Fontes e gráficos utilizados
-
 ![Gráfico](https://sealevel.nasa.gov/internal_resources/471)
-
-Os dados foram tirados do [Sea Level Portal da NASA](https://sealevel.nasa.gov/faq/8/is-the-rate-of-sea-level-rise-increasing/)
+Os dados utilizados são do [Sea Level Portal da NASA](https://sealevel.nasa.gov/faq/8/is-the-rate-of-sea-level-rise-increasing/)
 
 
